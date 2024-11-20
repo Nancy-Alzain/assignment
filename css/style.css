@@ -1,0 +1,16 @@
+/* Task == > 1 */
+.header {
+  text-align: center;
+  color: blueviolet;
+}
+ul {
+  width: 500px;
+  margin: auto;
+}
+ul li {
+  color: green;
+  font-weight: bold;
+  background-color: hsla(0, 0%, 67%, 0.3);
+  border: 1px solid #0000007a;
+  padding: 10px;
+}
